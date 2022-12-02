@@ -33,7 +33,7 @@ Check it out! https://github.com/GuglioIsStupid/Rit
 
 ### Support me!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/guglioisstupid)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GRXMX)
 
 ### Note
 
