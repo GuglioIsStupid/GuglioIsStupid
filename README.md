@@ -31,11 +31,6 @@ Check it out! https://github.com/GuglioIsStupid/Rit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guglioisstupid)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Contact me!
-
-Discord: GuglioIsStupid#8008
-Twitter: @GuglioIs2Stupid
-
 ### Support me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/guglioisstupid)
