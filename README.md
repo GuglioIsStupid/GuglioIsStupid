@@ -8,6 +8,7 @@ I am currently working on a game called "Rit"!
 Rit is a WIP rhythm game made in Love2D!
 
 osu! (no holds currently, 4k only) and quaver charts work
+
 stepmania support is a WIP!
 
 Check it out! https://github.com/GuglioIsStupid/Rit
