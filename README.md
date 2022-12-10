@@ -3,7 +3,7 @@
 
 I am a wannabe smart person who thinks they can code.
 
-(I am non-binary for those who are wondering and i use any pronouns 🚒🚒🚒😎
+(I am non-binary for those who are wondering and i use any pronouns 🚒🚒🚒😎)
 
 
 ### What do I do?
