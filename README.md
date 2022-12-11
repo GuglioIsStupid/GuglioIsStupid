@@ -3,6 +3,8 @@
 
 I am a wannabe smart person who thinks they can code.
 
+
+##
 (I am non-binary for those who are wondering and i use any pronouns 🚒🚒🚒😎)
 
 
@@ -27,6 +29,8 @@ Check it out! https://github.com/GuglioIsStupid/Rit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
 
 ### More info
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GuglioIsStupid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Guglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=guglioisstupid&theme=dark&show_icons=true)
 
