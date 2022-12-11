@@ -7,6 +7,8 @@ I am a wannabe smart person who thinks they can code.
 ##
 (I am non-binary for those who are wondering and i use any pronouns 🚒🚒🚒😎)
 
+https://en.pronouns.page/@GuglioIsStupid
+
 
 ### What do I do?
 
