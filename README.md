@@ -3,9 +3,9 @@
 
 I am a wannabe smart person who thinks they can code.
 
-### 
+#
 
-###
+#
 
 ### About me
 
