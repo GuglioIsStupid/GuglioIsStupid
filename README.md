@@ -3,9 +3,9 @@
 
 I am a wannabe smart person who thinks they can code.
 
-
 ### 
 
+###
 
 ### About me
 
@@ -25,10 +25,6 @@ I am a wannabe smart person who thinks they can code.
 - [YouTube](https://www.youtube.com/@GuglioIsStupid) - My YouTube
 - [Twitch](https://www.twitch.tv/guglioisstupid) - My Twitch
 - [Discord](https://discord.gg/ehY5gMMPW8) - My Discord server
-
-### My other accounts
-
-- [Github {This one!}](https://github.com/GuglioIsStupid)
 
 ### My other projects
 
