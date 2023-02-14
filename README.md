@@ -7,22 +7,32 @@ I am a wannabe smart person who thinks they can code.
 ### 
 
 
-### What do I do?
+### About me
 
-I like making things in the game framework LOVE2D!
+- I play rhythm games (even though I suck at them)
+- I make games (Sometimes)
+- I like 2D indie games
+- https://guglioisstupid.github.io/ is my blogsite
 
-I am currently working on a game called "Rit"!
+### My projects
 
-### What is [Rit](https://github.com/GuglioIsStupid/Rit)?
+- [Guglio's Website](https://guglioisstupid.github.io/) - My website
+- [Rit](https://github.com/guglioisstupid/rit) - A WIP rhythm game that can run on Nintendo Switch
 
-[Rit](https://github.com/GuglioIsStupid/Rit) is a WIP rhythm game made in [LOVE2D](https://love2d.org)!
+### My socials
 
-So far it supports [Quaver](https://quavergame.com), [osu!](https://osu.ppy.sh), and [FNF json files](https://github.com/ninjamuffin99/Funkin)!
+- [Twitter](https://twitter.com/GuglioIs2Stupid) - My Twitter
+- [YouTube](https://www.youtube.com/@GuglioIsStupid) - My YouTube
+- [Twitch](https://www.twitch.tv/guglioisstupid) - My Twitch
+- [Discord](https://discord.gg/ehY5gMMPW8) - My Discord server
 
-[Stepmania](https://www.stepmania.com) charts are planned!
+### My other accounts
 
+- [Github {This one!}](https://github.com/GuglioIsStupid)
 
-Check it out! https://github.com/GuglioIsStupid/Rit
+### My other projects
+
+- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
 
 ### Things I use!!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
@@ -43,3 +53,6 @@ Check it out! https://github.com/GuglioIsStupid/Rit
 ### Note
 
 I am not a professional programmer, I am just a teenager who likes to code!
+
+
+### Bye!
