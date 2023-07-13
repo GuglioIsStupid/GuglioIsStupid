@@ -10,12 +10,18 @@ I am a wannabe smart person who thinks they can code.
 - I play rhythm games (even though I suck at them)
 - I make games (Sometimes)
 - I like 2D indie games
-- https://guglioisstupid.github.io/ is my blogsite
+- https://social.agori.dev is my fediverse site
 
 ## My projects
 
 - [Guglio's Website](https://guglioisstupid.github.io/) - My website
 - [Rit](https://github.com/guglioisstupid/rit) - A WIP rhythm game that can run on Nintendo Switch
+- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
+- Guys Vs Gods - Top-down action RPG game
+
+## Teams I'm Apart of
+- [AGORI](placeholder.com)
+- [OHD](placeholder.com)
 
 ## My socials
 
@@ -23,10 +29,6 @@ I am a wannabe smart person who thinks they can code.
 - [YouTube](https://www.youtube.com/@GuglioIsStupid) - My YouTube
 - [Twitch](https://www.twitch.tv/guglioisstupid) - My Twitch
 - [Discord](https://discord.gg/ehY5gMMPW8) - My Discord server
-
-## My other projects
-
-- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
 
 ## Things I use!!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
