@@ -20,8 +20,8 @@ I am a wannabe smart person who thinks they can code.
 - Guys Vs Gods - Top-down action RPG game
 
 ## Teams I'm Apart of
-- [AGORI](agori.dev)
-- [OHD](overhyped.fun)
+- [AGORI](https://agori.dev)
+- [OHD](https://overhyped.fun)
 
 ## My socials
 
