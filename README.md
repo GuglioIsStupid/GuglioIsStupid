@@ -20,8 +20,8 @@ I am a wannabe smart person who thinks they can code.
 - Guys Vs Gods - Top-down action RPG game
 
 ## Teams I'm Apart of
-- [AGORI](placeholder.com)
-- [OHD](placeholder.com)
+- [AGORI](agori.dev)
+- [OHD](overhyped.fun)
 
 ## My socials
 
@@ -35,20 +35,16 @@ I am a wannabe smart person who thinks they can code.
 
 ## More info
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GuglioIsStupid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Guglio's Trophies](https://github-profile-trophy.vercel.app/?username=GuglioIsStupid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Guglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=guglioisstupid&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guglioisstupid)](https://github.com/anuraghazra/github-readme-stats)
+[![Guglio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guglioisstupid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Support me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GRXMX)
-
-## Note
-
-I am not a professional programmer, I am just a teenager who likes to code!
 
 #
 
