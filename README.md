@@ -1,3 +1,11 @@
+<div id="badges">
+  <a href="https://twitter.com/GuglioIs2Stupid">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=GuglioIsStupid&style=flat-square&color=blue" alt=""/>
+
+
 ## Hey, Hi, Hello! I'm Guglio!
 ### Who am I?
 
@@ -35,17 +43,16 @@ I am a wannabe smart person who thinks they can code.
 
 ## More info
 
-[![Guglio's Trophies](https://github-profile-trophy.vercel.app/?username=GuglioIsStupid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuglioIsStupid&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Guglio's GitHub stats](https://github-readme-stats.vercel.app/api?username=guglioisstupid&theme=dark&show_icons=true)
 
-[![Guglio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guglioisstupid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuglioIsStupid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Support me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GRXMX)
 
-#
-
-### Bye!
+## Blog Updates
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
