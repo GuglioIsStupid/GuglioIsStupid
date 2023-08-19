@@ -55,4 +55,8 @@ I am a wannabe smart person who thinks they can code.
 
 ## Blog Updates
 <!-- BLOG-POST-LIST:START -->
+- [Modscripting in Rit](https://guglioisstupid.github.io/blog/2023/03/08/Modscripting-Rit.html)
+- [Homebrew Appstore Submission](https://guglioisstupid.github.io/blog/2023/02/15/Homebrew-Appstore-Submission.html)
+- [Rit Update](https://guglioisstupid.github.io/blog/2023/02/11/RitUpdate.html)
+- [Blog test 2](https://guglioisstupid.github.io/blog/2023/01/26/blogtest2.html)
 <!-- BLOG-POST-LIST:END -->
