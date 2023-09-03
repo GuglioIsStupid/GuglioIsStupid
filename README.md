@@ -22,7 +22,7 @@ I am a wannabe smart person who thinks they can code.
 
 ## My projects
 
-- [Guglio's Website](https://guglioisstupid.github.io/) - My website
+- [I Love Femboys dot org](https://ilovefemboys.org/) - My website
 - [Rit](https://github.com/guglioisstupid/rit) - A WIP rhythm game that can run on Nintendo Switch
 - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
 - Guys Vs Gods - Top-down action RPG game
