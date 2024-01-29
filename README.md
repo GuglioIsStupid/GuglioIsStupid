@@ -15,15 +15,11 @@ I am a wannabe smart person who thinks they can code.
 
 ## About me
 
-- I play rhythm games (even though I suck at them)
-- I make games (Sometimes)
-- I like 2D indie games
-- https://social.agori.dev is my fediverse site
+I am a Gr. 12 student currently teaching myself computer languages, however I have been accepted to take a course in computer science.
 
 ## My projects
 
-- [I Love Femboys dot org](https://ilovefemboys.org/) - My website
-- [Rit](https://github.com/guglioisstupid/rit) - A WIP rhythm game that can run on Nintendo Switch
+- [Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
 - [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
 - Guys Vs Gods - Top-down action RPG game
 
@@ -33,13 +29,13 @@ I am a wannabe smart person who thinks they can code.
 
 ## My socials
 
-- [Twitter](https://twitter.com/GuglioIs2Stupid) - My Twitter
+- [Twitter](https://twitter.com/Guglorio) - My Twitter
 - [YouTube](https://www.youtube.com/@GuglioIsStupid) - My YouTube
 - [Twitch](https://www.twitch.tv/guglioisstupid) - My Twitch
 - [Discord](https://discord.gg/ehY5gMMPW8) - My Discord server
 
 ## Things I use!!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
 ## More info
 
@@ -52,11 +48,3 @@ I am a wannabe smart person who thinks they can code.
 ## Support me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GRXMX)
-
-## Blog Updates
-<!-- BLOG-POST-LIST:START -->
-- [Modscripting in Rit](https://guglioisstupid.github.io/blog/2023/03/08/Modscripting-Rit.html)
-- [Homebrew Appstore Submission](https://guglioisstupid.github.io/blog/2023/02/15/Homebrew-Appstore-Submission.html)
-- [Rit Update](https://guglioisstupid.github.io/blog/2023/02/11/RitUpdate.html)
-- [Blog test 2](https://guglioisstupid.github.io/blog/2023/01/26/blogtest2.html)
-<!-- BLOG-POST-LIST:END -->
