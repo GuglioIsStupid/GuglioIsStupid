@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="https://twitter.com/GuglioIs2Stupid">
+  <a href="https://twitter.com/GuglioIsStupid">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -20,13 +20,12 @@ I am a Gr. 12 student currently teaching myself computer languages, however I ha
 ## My projects
 
 - [Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
-- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - WIP FNFR engine
+- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - Lua FNF Engine built on top of Funkin: Rewritten
 - Guys Vs Gods - Top-down action RPG game
 
 ## Teams I'm Apart of
 - [AGORI](https://agori.dev)
-- [OHD](https://overhyped.fun)
-
+  
 ## My socials
 
 - [Twitter](https://twitter.com/Guglorio) - My Twitter
