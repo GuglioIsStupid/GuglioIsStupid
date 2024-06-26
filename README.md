@@ -13,7 +13,7 @@ I am a wannabe smart person who thinks they can code.
 
 ## About me
 
-I am a Gr. 12 student currently teaching myself computer languages, however I have been accepted to take a course in computer science.
+I am a HS Grad currently taking a Computer Science course
 
 ## My projects
 
