@@ -18,12 +18,11 @@ I am a HS Grad currently taking a Computer Science course
 ## My projects
 
 - [Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
-- [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) - Lua FNF Engine built on top of Funkin: Rewritten
 - [Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
 
 ## Teams I'm Apart of
 - [AGORI Studios](https://agori.dev) - Programmer
-<!--- [Cubitos](https://example.com) - Programmer-->
+- Cubitos - Programmer
   
 ## My socials
 
