@@ -13,7 +13,7 @@ I am a wannabe smart person who thinks they can code.
 
 ## About me
 
-I am a HS Grad currently taking a Computer Science course
+I am a HS Grad currently taking a Bachelors degree course for Computer Science :steamhappy:
 
 ## My projects
 
