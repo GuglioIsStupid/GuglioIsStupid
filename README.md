@@ -40,13 +40,13 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
 
 ## My projects
 
-- [Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
-- [Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
+[Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
+[Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
 
 
 ## Teams I'm Apart of
-- [AGORI Studios](https://agori.dev) - Programmer
-- Cubitos - Programmer
+[AGORI Studios](https://agori.dev) - Programmer
+Cubitos - Programmer
 
 ## Languages/Tools I use
 <div id="badges2" align="center" style="display: flex; justify-content: space-between;">
