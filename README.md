@@ -1,3 +1,5 @@
+<div id="main_content" align="center" style="display: flex; justify-content: space-between;">
+
 ## Hey, Hi, Hello! I'm Guglio!
 ### Who am I?
 
@@ -68,3 +70,4 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
 
 </div>
 
+</div>
