@@ -1,3 +1,5 @@
+<div id="main_content" align="center" style="display: flex; justify-content: space-between;">
+
 ## Hey, Hi, Hello! I'm Guglio!
 ### Who am I?
 
@@ -38,16 +40,18 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
 
 ## My projects
 
-- [Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
-- [Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
+[Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
+
+[Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
 
 
 ## Teams I'm Apart of
-- [AGORI Studios](https://agori.dev) - Programmer
-- Cubitos - Programmer
+[AGORI Studios](https://agori.dev) - Programmer
+
+Cubitos - Programmer
 
 ## Languages/Tools I use
-<div id="badges2">
+<div id="badges2" align="center" style="display: flex; justify-content: space-between;">
 <!--Languages-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img alt="Lua Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -58,10 +62,11 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
 
 #  
 
-<div id="badges3">
+<div id="badges3" align="center" style="display: flex; justify-content: space-between;">
 <!--Tools-->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   <img alt="Love2D Badge" src="https://img.shields.io/badge/Love2D-be2554?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
 </div>
 
+</div>
