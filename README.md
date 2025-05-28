@@ -12,11 +12,8 @@ I am a wannabe smart person who thinks they can code.
 </div>
 
 ## About me
-
-I am a HS Grad currently taking a Bachelors degree course for Computer Science :steamhappy:
-
 <div id="badges" align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://twitter.com/GuglioIsStupid">
+  <a href="https://twitter.com/TetoReiYuri">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
@@ -24,11 +21,7 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 
-  <a href="https://www.twitch.tv/guglioisstupid">
-    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>
-
-  <a href="https://discord.gg/ehY5gMMPW8">
+  <a href="https://discord.gg/D3Fz4fTK2W">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 
@@ -40,7 +33,7 @@ I am a HS Grad currently taking a Bachelors degree course for Computer Science :
 
 ## My projects
 
-[Rit](https://github.com/guglioisstupid/rit) - A mania-styled rhythm game made in Love2D
+[Rit](https://github.com/guglioisstupid/rit) - Story-based rhythm game made in Love2D
 
 [Guys Vs Gods](https://agori.dev/projects/guys-vs-gods) - Top-down ARPG game
 
