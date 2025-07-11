@@ -6,7 +6,7 @@
 I am a wannabe smart person who thinks they can code.
 
 <div id="stats" align="center" style="display: flex; justify-content: space-between;">
-<img src=http://github-readme-streak-stats.herokuapp.com?user=GuglioIsStupid&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuglioIsStupid")/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuglioIsStupid&layout=compact&theme=vision-friendly-dark"/>
 </div>
