@@ -1,9 +1,6 @@
 <div id="main_content" align="center" style="display: flex; justify-content: space-between;">
 
-## Hey, Hi, Hello! I'm Guglio!
-### Who am I?
-
-I am a wannabe smart person who thinks they can code.
+i like making TERRIBLE things !!!!!
 
 <div id="stats" align="center" style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=GuglioIsStupid")/>
