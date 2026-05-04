@@ -1,7 +1,7 @@
 <h1 align="center">Guglio</h1>
 <h3 align="center">I LIKE MAKING BULLLLSHITTTT</h3>
 
-Due to recent events. PLEASE do not use my code for AI purposes. I do not agree with generative AI.
+Due to recent events, PLEASE do not use my code for AI purposes. I do not agree with generative AI.
 
 <p align="center">
   i type on my computer to make stuff.. like 99% of it is straight bullshit but the 1% is good
