@@ -1,8 +1,6 @@
 <h1 align="center">Guglio</h1>
 <h3 align="center">I LIKE MAKING STUFF</h3>
 
-Due to recent events, PLEASE do not use my code for AI purposes. I do not agree with generative AI.
-
 <p align="center">
   i type on my computer to make stuff.. like 99% of it is bad but the 1% is good
 </p>
